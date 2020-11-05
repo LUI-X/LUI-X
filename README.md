@@ -4,9 +4,8 @@ Technologies & Tools
 
 
 ![](https://img.shields.io/npm/v/npm.svg?logo=javascript)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Javascript<Linux>&logoColor=white&color=red)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=npm.svg?logo=javascript<Linux>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<Linux>&logoColor=white&color=red)
-![](https://img.shields.io/npm/v/npm.svg?logo=javascript)
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 Here are some ideas to get you started:
