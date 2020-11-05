@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+
+
+https://raw.githubusercontent.com/LUI-X/LUI-X/main/Logo-brand.png
 <!--
 **LUI-X/LUI-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://raw.githubusercontent.com/LUI-X/LUI-X/main/Logo-brand.png
 
 Here are some ideas to get you started:
 
