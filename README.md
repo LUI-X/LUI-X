@@ -10,6 +10,7 @@ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=<Linux>&logoColor=white&color=ff0000)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=<Linux>&logoColor=white&color=ff000)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=<Linux>&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<Linux>&logoColor=white&color=ff0000)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
