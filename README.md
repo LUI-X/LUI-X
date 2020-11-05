@@ -2,15 +2,9 @@
 
 Technologies & Tools 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<linux>&logoColor=white&color=red)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<Linux>&logoColor=white&color=red)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<linux>&logoColor=white&color=)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<Linux>&logoColor=white&color=ff0000)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-Here are some ideas to get you started:
-
-![](https://img.shields.io/badge/linux.svg?logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9zaW1wbGVpY29ucy5vcmcvaWNvbnMvbGludXguc3Zn+)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
