@@ -2,7 +2,9 @@
 
 Technologies & Tools 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Linux>&logoColor=white&color=red)
+
+![](https://img.shields.io/npm/v/npm.svg?logo=javascript)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Javascript<Linux>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<Linux>&logoColor=white&color=red)
 ![](https://img.shields.io/npm/v/npm.svg?logo=javascript)
 
