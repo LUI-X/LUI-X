@@ -12,6 +12,9 @@ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=<Linux>&logoColor=white&color=ff0000)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<Linux>&logoColor=white&color=ff0000)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>)](https://github.com/<username>/<repository_name>)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
