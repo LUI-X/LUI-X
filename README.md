@@ -13,7 +13,7 @@ Technologies & Tools
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<Linux>&logoColor=white&color=ff0000)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>)](https://github.com/<LUI-X>/<repository_name>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<LUI-X>)](https://github.com/<LUI-X>/<repository_name>)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
